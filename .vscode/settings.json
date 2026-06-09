@@ -1,0 +1,8 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ],
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
