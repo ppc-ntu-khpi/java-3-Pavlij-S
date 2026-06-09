@@ -1,7 +1,7 @@
 package domain;
 
 public class Exercise {
-    // Метод Calculate перевіряє, чи є число Армстронга
+    // Метод перевіряє, чи є число Армстронга
     public static boolean Calculate(int number) {
         int original = number;
         int digits = String.valueOf(number).length();
